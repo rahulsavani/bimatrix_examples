@@ -1,4 +1,4 @@
-assumes following lrs binaries are in bin/:
+assumes following lrs binaries are in the local directory bin/:
 
 	- nash 
 	- setnash
