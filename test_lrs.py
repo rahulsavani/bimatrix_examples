@@ -205,6 +205,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#check_game(examples.coordination,3)
-
