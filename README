@@ -1,10 +1,10 @@
-assumes following lrs binaries are in the local directory bin/:
+- game and equilibrium generators are in examples.py
+
+- code to run and test against lrs output is in test_lrs.py
+
+- test_lrs.py assumes following lrs binaries are in the local directory bin/:
 
 	- nash 
 	- setnash
 
-game and equilibrium generators are in examples.py
-
-code to run and test against lrs output is in test_lrs.py
-
-this requires a local tmp/ directory where various files will be stored
+- requires a local tmp/ directory where various files will be stored
